@@ -1669,7 +1669,7 @@ input, select, textarea {
 		.video-grid iframe {
 			width: 100%;
 			height: auto;
-			aspect-ratio: 16 / 9; /* Ensures the videos maintain a 16:9 aspect ratio */
+			aspect-ratio: 9 / 16; /* Ensures the videos maintain a 16:9 aspect ratio */
 		}
 		
 		
